@@ -1,0 +1,22 @@
+.container {
+  button {
+    width: 98px;
+    height: 23px;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+
+  .active {
+    background-color: transparent;
+    color: #2c7dfa;
+    font-weight: 500;
+    border: 1px solid #2c7dfa;
+  }
+
+  .inactive {
+    background-color: #f2eff6;
+    color: #6c757d;
+    font-weight: 400px;
+    border: none;
+  }
+}
